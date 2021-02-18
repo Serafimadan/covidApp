@@ -1,4 +1,4 @@
-# Web app for searching movies
+# Web app COVID19 Tracker
 ## Description: 
 - Fetch API from https://covid19.mathdro.id/api
 - COVID19 Tracker App
