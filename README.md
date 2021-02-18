@@ -1,6 +1,6 @@
 # Web app for searching movies
 ## Description: 
-- Fetch API from https://www.themoviedb.org/
+- Fetch API from https://covid19.mathdro.id/api
 - COVID19 Tracker App
 - Countries search and chart features
 
