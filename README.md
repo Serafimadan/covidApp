@@ -5,7 +5,7 @@
 - Countries search and chart features
 
 ## The outcome: 
-[![screenshot of the app](surces/imageC.png "screenshot of the app")](https://covidintheworld.herokuapp.com/)
+[![screenshot of the app](src/surces/imageC.png "screenshot of the app")](https://covidintheworld.herokuapp.com/)
 
 ## The Stack: 
 Frontend for the app built with **React.js**. 
